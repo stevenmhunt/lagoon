@@ -1,0 +1,28 @@
+{
+  "name": "lagoon-alert",
+  "version": "0.0.1",
+  "description": "Aggregates and monitors sensor data from the Indian River Lagoon (or any potentially any other environment)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevenmhunt/lagoon-alert.git"
+  },
+  "keywords": [
+    "lagoon",
+    "sensor",
+    "monitoring",
+    "alert",
+    "notification",
+    "environment",
+    "ecology"
+  ],
+  "author": "Steven Hunt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevenmhunt/lagoon-alert/issues"
+  },
+  "homepage": "https://github.com/stevenmhunt/lagoon-alert#readme"
+}
